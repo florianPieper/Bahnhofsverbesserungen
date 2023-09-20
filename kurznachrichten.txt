@@ -1,24 +1,24 @@
 \art{Kurznachrichten}
+% Mal sehen ob das geht
 
-
-\unter{PRO BAHN Stammtisch in München ab Oktober in neuem Lokal}
+\unter{PRO BAHN Stammtisch in MÃ¼nchen ab Oktober in neuem Lokal}
 
 Nach dem Sommer im "`Braunauer Hof"' 
-wechselt der PRO BAHN Stammtisch in München ab Oktober zum 
-"`Restaurante Portugal"', Friedenstraße 26A, (\url{http://restaurante-portugal-muenchen.de/}).
-Das Lokal ist in der Nähe des Ostbahnhofs auf der Seite zum Werksviertel. 
+wechselt der PRO BAHN Stammtisch in MÃ¼nchen ab Oktober zum 
+"`Restaurante Portugal"', FriedenstraÃŸe 26A, (\url{http://restaurante-portugal-muenchen.de/}).
+Das Lokal ist in der NÃ¤he des Ostbahnhofs auf der Seite zum Werksviertel. 
 Der Stammtisch am 27. September 
-findet noch im "`Braunauer Hof"' in der Frauenstraße 40 statt, der erste 
+findet noch im "`Braunauer Hof"' in der FrauenstraÃŸe 40 statt, der erste 
 Stammtisch im "`Restaurante Portugal"' ist am 25. Oktober. 
 
 \newpage
 
 
-\unter{Wahlprüfsteine}
+\unter{WahlprÃ¼fsteine}
 
 \vskip 5.cm
 
-\unter{Silberhornstraße (evtl Artikel mit Bild) }
+\unter{SilberhornstraÃŸe (evtl Artikel mit Bild) }
 
 \vskip 5.cm
 
